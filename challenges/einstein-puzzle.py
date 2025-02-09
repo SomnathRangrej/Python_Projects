@@ -58,3 +58,46 @@ for house in houses:
         house['pet'] = 'fish'
 
 print(houses)
+
+#Output
+
+'''
+[
+  {
+    'color': 'yellow',
+    'nationality': 'Norwegian',
+    'drink': 'water',
+    'pet': 'fish',
+    'cigarette': 'Dunhills'
+  },
+  {
+    'color': 'blue',
+    'nationality': 'Dane',
+    'drink': 'tea',
+    'pet': 'horses',
+    'cigarette': 'Blend'
+  },
+  {
+    'color': 'green',
+    'nationality': None,
+    'drink': 'coffee',
+    'pet': 'birds',
+    'cigarette': 'Pall Mall'
+  },
+  {
+    'color': 'white',
+    'nationality': 'German',
+    'drink': None,
+    'pet': 'fish',
+    'cigarette': 'Prince'
+  },
+  {
+    'color': 'red',
+    'nationality': 'Swede',
+    'drink': 'beer',
+    'pet': 'dogs',
+    'cigarette': 'Blue Masters'
+  }
+]
+
+'''
